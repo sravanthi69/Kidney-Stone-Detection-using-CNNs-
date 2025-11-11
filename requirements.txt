@@ -1,0 +1,20 @@
+# Core scientific packages
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Deep learning framework
+tensorflow>=2.10
+keras>=2.10
+
+# Image processing
+opencv-python
+pillow
+
+# Notebook environment
+jupyter
+ipykernel
+
+# Optional (for visualization / metrics)
+seaborn
